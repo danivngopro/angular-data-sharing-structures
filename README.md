@@ -85,3 +85,6 @@ $ npm start
 ```
 
 <a href="#top">Back to top</a>
+
+
+to do next: learn how to communicate between services
